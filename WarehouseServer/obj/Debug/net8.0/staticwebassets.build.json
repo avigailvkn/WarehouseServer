@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "87EgKDkTXOOLWo8ZtkezB/q9si4SrKa5ygFx2w2KcbU=",
+  "Source": "WarehouseServer",
+  "BasePath": "_content/WarehouseServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

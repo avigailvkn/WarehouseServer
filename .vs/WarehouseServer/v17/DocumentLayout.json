@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\warehouseserver\\warehouseserver\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|solutionrelative:warehouseserver\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\warehouseserver\\warehouseserver\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|solutionrelative:warehouseserver\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\warehouseserver\\warehouseserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|solutionrelative:warehouseserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\warehouseserver\\warehouseserver\\data\\warehousedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|solutionrelative:warehouseserver\\data\\warehousedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\warehouseserver\\warehouseserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8045BC63-547A-4FCF-91ED-70DB4F9B5C8C}|WarehouseServer\\WarehouseServer.csproj|solutionrelative:warehouseserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "WarehouseServer\\Controllers\\WarehouseController.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "WarehouseServer\\Controllers\\WarehouseController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:35:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\appsettings.json",
+              "RelativeDocumentMoniker": "WarehouseServer\\appsettings.json",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\appsettings.json",
+              "RelativeToolTip": "WarehouseServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T19:35:35.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseServer\\Program.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\Program.cs",
+              "RelativeToolTip": "WarehouseServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:35:17.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarehouseDbContext.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\Data\\WarehouseDbContext.cs",
+              "RelativeDocumentMoniker": "WarehouseServer\\Data\\WarehouseDbContext.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\Data\\WarehouseDbContext.cs",
+              "RelativeToolTip": "WarehouseServer\\Data\\WarehouseDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:35:02.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "WarehouseServer\\Models\\Warehouse.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\WarehouseServer\\WarehouseServer\\Models\\Warehouse.cs",
+              "RelativeToolTip": "WarehouseServer\\Models\\Warehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:34:03.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
